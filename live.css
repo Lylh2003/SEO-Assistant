@@ -1,0 +1,4 @@
+.url-input{flex:1 1 340px;min-width:220px;border:1px solid #d8e3d8;border-radius:10px;background:#f9fbf8;color:#1e3426;padding:10px 13px}
+.url-input:focus{outline:2px solid #b8d6a8}
+.source-note{font-size:12px;color:#6a7d70;margin:12px 0 0!important}
+.button:disabled{opacity:.55;cursor:wait}
